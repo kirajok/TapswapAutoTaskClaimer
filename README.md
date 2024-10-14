@@ -17,6 +17,9 @@ Forked From: https://github.com/sizifart/TapswapAutoTaskClaimer
 | 5. | Turn Off Internet ( Wifi - Cellular ) |
 | 6. | When TapSwap Show Main Page Turn On Internet (You Can See Purple Box With Your Telegram Username)|
 
+I try to update the codes daily but there may be delays.
+You can also send updates to the list of codes yourself [!!!!BUT!!! be aware that the name of the video, as well as the name of the mission on third-party resources may differ from the name of the mission in the bot, and because of this script will not be able to perform the mission].
+
 Original author @sizifart
 # Telegram Channel
 
